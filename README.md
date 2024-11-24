@@ -6,8 +6,7 @@ FlashMaster is a flashcard app to help users learn different topics, with a clea
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies](#technologies)
-- [Footer Component](#footer-component)
+- [Technologies](#technologies) 
 - [License](#license)
 
 ## Installation
